@@ -6,6 +6,10 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+/**
+ * This class solved the 820 - Internet Bandwidth in UVA
+ * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=761
+ */
 public class Main820 {
 	public static void main(String[] args) throws Exception {
 		BufferedReader tec = new BufferedReader(new InputStreamReader(System.in));
